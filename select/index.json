@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "カーネーション",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-02-18T13:58:19.703943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_カーネーション_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carnation [カーネーション]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Carnation_[カーネーション]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "折戸伸治",
+      "has_synced": false,
+      "path": "select/03_カーネーション_折戸伸治.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/04_カーネーション_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/05_カーネーション_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_カーネーション_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/07_カーネーション_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "Kiyoharu",
+      "has_synced": false,
+      "path": "select/08_カーネーション_Kiyoharu.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "A crow is white",
+      "has_synced": true,
+      "path": "select/09_カーネーション_A_crow_is_white.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Carnation (カーネーション)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/10_Carnation_(カーネーション)_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カーネーション",
+      "artist": "カラスは真っ白",
+      "has_synced": true,
+      "path": "select/11_カーネーション_カラスは真っ白.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーネーション",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_カーネーション_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カーネーション",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_カーネーション_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "カーネーション",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_カーネーション_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "カーネーション",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_カーネーション_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "カーネーション",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_カーネーション_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "カーネーション",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_06_カーネーション_椎名_林檎.txt"
+    }
+  ]
+}
